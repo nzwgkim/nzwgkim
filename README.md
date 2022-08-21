@@ -3,6 +3,9 @@
 My visa is under process to be a residency. I believe that my English is still not so good yet, but if you are very generous to me, it might be not a problem on communication.
 📫 How to reach me: wgkim00@gmail.com, 027 588 6597
 
+https://img.shields.io/github/commit-activity/m/nzwgkim/react
+
+
 <!--
 **nzwgkim/nzwgkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
